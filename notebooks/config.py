@@ -1,8 +1,8 @@
 """Paths when running locally"""
 
 # Main folders
-in_folder = "../data/input/"
-out_folder = "../data/output/"
+in_folder = "Accessible_Route_Planning/data/input/"
+out_folder = "Accessible_Route_Planning/data/output/"
 
 # Output path for storing polygon(s) for the pilot area
 output_pilot_area = f'{out_folder}pilot_area.geojson'
